@@ -29,6 +29,8 @@
     - defaultIfEmpty, every, find, findIndex, isEmpty
 - **Mathematical and Aggregate**
     - count, max, min, reduce
+- **Subjects**
+    - AsyncSubject, BehaviorSubject, ReplaySubject, Subject
 
 ### Materials
 
