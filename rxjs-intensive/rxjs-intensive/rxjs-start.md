@@ -1,8 +1,8 @@
+### Categories of operators
+
 - **Creation**
     - from, of, fromEvent, fromEventPattern, bindCallback, bindNodeCallback, range, generate, throwError, empty, defer,
-      interval, timer, create, ajax,
-    - https://www.learnrxjs.io/ , https://rxjs.dev/
-    - and my rxjs-intensive project
+      interval, timer, create, ajax, iif
 - **Join Creation Operators**
     - combineLatest, concat, forkJoin, merge, partition, race, zip
 - **Join Operators**
@@ -10,22 +10,31 @@
 - **Combination**
     - combineLatest, concat, forkJoin, merge, partition, race, zip startWith, endWith, withLatestFrom, combineLatestAll,
       concatAll, exhaustAll, mergeAll, switchAll
-- **Filtering**
-    - debounceTime, distinctUntilChanged, filter, take, takeUntil
-    - audit, auditTime, debounce, debounceTime, distinct, distinctUntilChanged, distinctUntilKeyChanged, elementAt,
-      filter,
-      first, ignoreElements, last, sample, sampleTime, single, skip, skipLast, skipUntil, skipWhile, take, takeLast,
-      takeUntil, takeWhile, throttle, throttleTime
 - **Transformation**
     - buffer, bufferCount, bufferTime, bufferToggle, bufferWhen, concatMap, concatMapTo, exhaust, exhaustMap, expand,
       groupBy, map, mapTo, mergeMap, mergeMapTo, mergeScan, pairwise, partition, pluck, scan, switchScan, switchMap,
       switchMapTo, window, windowCount, windowTime, windowToggle, windowWhen
-- **Utility**
-    - tap
+- **Filtering**
+    - audit, auditTime, debounce, debounceTime, distinct, distinctUntilChanged, distinctUntilKeyChanged, elementAt,
+      filter, first, ignoreElements, last, sample, sampleTime, single, skip, skipLast, skipUntil, skipWhile, take,
+      takeLast, takeUntil, takeWhile, throttle, throttleTime
 - **Multicasting**
-    - share
-- **Conditional**
-  - 
+    - multicast, publish, publishBehavior, publishLast, publishReplay, share
+- **Error Handling**
+    - catchError, retry, retryWhen
+- **Utility**
+    - tap, delay, delayWhen, dematerialize, materialize, observeOn, subscribeOn, timeInterval, timestamp, timeout,
+      timeoutWith, toArray
+- **Conditional and Boolean**
+    - defaultIfEmpty, every, find, findIndex, isEmpty
+- **Mathematical and Aggregate**
+    - count, max, min, reduce
+
+### Materials
+
+- https://www.learnrxjs.io/
+- https://rxjs.dev/
+- rxjs-intensive project https://github.com/flinkcstou/rxjs-intensive
 
 **before start check**
 
