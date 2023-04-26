@@ -2,4 +2,6 @@ give mark for all operators:
 
 - single, multiple, parallel, dependent, independent, hot, cold, stream, complete
 
-Дать всем mark-ерам определения 
+Дать всем mark-ерам определения
+
+show difference between some operators
