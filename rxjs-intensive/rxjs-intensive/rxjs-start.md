@@ -26,7 +26,7 @@
     - tap, delay, delayWhen, dematerialize, materialize, observeOn, subscribeOn, timeInterval, timestamp, timeout,
       timeoutWith, toArray
 - **Conditional and Boolean**
-    - defaultIfEmpty, every, find, findIndex, isEmpty
+    - defaultIfEmpty, every, find, findIndex, isEmpty, sequenceEqual
 - **Mathematical and Aggregate**
     - count, max, min, reduce
 - **Subjects**
@@ -36,6 +36,7 @@
 
 - https://www.learnrxjs.io/
 - https://rxjs.dev/
+- https://indepth.dev/reference/rxjs/operators
 - rxjs-intensive project https://github.com/flinkcstou/rxjs-intensive
 
 **before start check**

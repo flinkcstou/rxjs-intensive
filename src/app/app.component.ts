@@ -1,8 +1,4 @@
 import { Component } from '@angular/core';
-import { Creation } from '../../rxjs-intensive/learnrxjs/codes/creation/creation';
-import { Combination } from '../../rxjs-intensive/learnrxjs/codes/combination/combination';
-import { Transformation } from '../../rxjs-intensive/learnrxjs/codes/transformation/transformation';
-import { Filtering } from '../../rxjs-intensive/learnrxjs/codes/filtering/filtering';
 
 @Component({
   selector: 'app-root',
@@ -14,5 +10,12 @@ export class AppComponent {
   // creation = new Creation();
   // combination = new Combination();
   // transformation = new Transformation();
-  filtering = new Filtering();
+  // filtering = new Filtering();
+  // multicasting = new Multicasting();
+  // errorHandling = new ErrorHandling();
+  // utility = new Utility();
+  // conditional = new Conditional();
+  // mathematical = new Mathematical();
+  // subjects = new Subjects();
+
 }
