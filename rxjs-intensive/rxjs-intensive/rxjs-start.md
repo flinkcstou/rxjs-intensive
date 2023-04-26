@@ -12,7 +12,8 @@
       concatAll, exhaustAll, mergeAll, switchAll
 - **Filtering**
     - debounceTime, distinctUntilChanged, filter, take, takeUntil
-    - audit, auditTime, debounce, debounceTime, distinct, distinctUntilChanged, distinctUntilKeyChanged, elementAt, filter,
+    - audit, auditTime, debounce, debounceTime, distinct, distinctUntilChanged, distinctUntilKeyChanged, elementAt,
+      filter,
       first, ignoreElements, last, sample, sampleTime, single, skip, skipLast, skipUntil, skipWhile, take, takeLast,
       takeUntil, takeWhile, throttle, throttleTime
 - **Transformation**
@@ -39,6 +40,10 @@
 **good playlist to learn**
 
 - https://www.youtube.com/playlist?list=PLQpZdy2HZ5BSoscdPXPHug8h8XqVP8ojs
+
+**rxjs-intensive playlist**
+
+- https://www.youtube.com/playlist?list=PLJXGSlYs-kTTYxJqljRZJ1zqwwKdLTzhV
 
 **good tools**
 
