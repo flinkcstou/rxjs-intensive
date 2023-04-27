@@ -74,7 +74,7 @@
 
 **OBSERVABLES, OBSERVERS & SUBSCRIPTIONS**
 
-- [observables, observers & subscriptions](./rxjs-intensive/rxjs-intensive/rxjs-observable.md)
+- [observables, observers & subscriptions](./rxjs-observable.md)
 
 **Advantages and disadvantages**
 
