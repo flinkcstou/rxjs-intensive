@@ -3,10 +3,10 @@ import { SubscriberTs } from './subscriber-ts';
 import { SubscriptionTs } from './subscription-ts';
 
 export class ObservableTs {
-  initFunc: (observer: any) => any;
+  private _subscribe: (observer: any) => any;
 
   constructor(initFunc: (observer: ObserverTs) => () => void) {
-    this.initFunc = initFunc;
+    this._subscribe = initFunc;
   }
 
   subscribe(observer: ObserverTs): SubscriptionTs {
@@ -14,7 +14,7 @@ export class ObservableTs {
     const subscription = new SubscriptionTs();
     const subscriber = new SubscriberTs(observer, subscription);
 
-    const tearDown = this.initFunc(subscriber);
+    const tearDown = this._subscribe(subscriber);
 
     subscription.add(tearDown);
     return subscription;
