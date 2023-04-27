@@ -50,6 +50,7 @@
 - https://www.youtube.com/watch?v=my6-qDYSk7E&list=PLFgeB6PIQeuctRVzZP0-gtq69NkuTa5kM&index=2
 - https://www.youtube.com/watch?app=desktop&v=D8pdP2YjiFw&ab_channel=IBSTrainingCenter
 - https://habr.com/ru/articles/462355/
+- https://www.slideshare.net/InfoQ/asynchronous-programming-at-netflix
 
 **good playlist to learn**
 
@@ -82,18 +83,22 @@
 
 **build your own observable**
 
+- https://dev.to/mr_bertoli/rxjs-from-scratch-observables-hl6
+- https://www.youtube.com/watch?app=desktop&v=PF3mFOZn3MQ&ab_channel=JoshuaMorony
 - https://medium.com/angular-in-depth/learning-observables-part-1-arrays-14480816eb61
 - https://medium.com/angular-in-depth/build-your-own-observable-part-1-containers-and-more-intuition-4210e8c28b4f
 - https://medium.com/angular-in-depth/building-your-own-observable-part-3-the-observer-pattern-and-creational-methods-334eeffb67f0
 - https://medium.com/angular-in-depth/build-your-own-observable-part-4-map-filter-take-and-all-that-jazz-40388e2ab2b3
-- https://dev.to/mr_bertoli/rxjs-from-scratch-observables-hl6
-- https://www.youtube.com/watch?app=desktop&v=PF3mFOZn3MQ&ab_channel=JoshuaMorony
 - [build your own observable](./rxjs-intensive/learnrxjs/codes/observable/observable-ts.ts)
 
 **build your own pipeable**
 
 - https://dev.to/mr_bertoli/rxjs-from-scratch-observables-hl6
 - https://dev.to/mr_bertoli/rxjs-from-scratch-pipeable-operators-1g18
+
+**building your own custom pipeable operators**
+
+- https://github.com/nathan-lapinski/build-your-own-observable/blob/master/solutions/src/internal/Observable.ts
 
 **recipes**
 

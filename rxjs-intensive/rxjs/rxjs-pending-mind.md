@@ -11,3 +11,9 @@ what's next?
 прохождения курса rxjs-courses
 дальше дополнять примерами
 дописывать новые знания если изучил что-нибудь новое
+
+start implementation all operators in rxjs
+
+- in order to understand how it works under the hood
+- in order to learn write as functional programming
+- in order to understand deeply js
