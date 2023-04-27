@@ -74,10 +74,17 @@
 
 **OBSERVABLES, OBSERVERS & SUBSCRIPTIONS**
 
+- [observables, observers & subscriptions](./rxjs-intensive/rxjs-intensive/rxjs-observable.md)
+
+**Advantages and disadvantages**
+
+- [Advantages and disadvantages](./rxjs-advantages-disantvantages.md)
+
 **build your own observable**
 
-- https://dev.to/mr_bertoli/rxjs-from-scratch-observables-hl6 // todo nabu repeat
-- https://www.youtube.com/watch?app=desktop&v=PF3mFOZn3MQ&ab_channel=JoshuaMorony // todo nabu repeat
+- https://dev.to/mr_bertoli/rxjs-from-scratch-observables-hl6
+- https://www.youtube.com/watch?app=desktop&v=PF3mFOZn3MQ&ab_channel=JoshuaMorony
+- [build your own observable](./rxjs-intensive/learnrxjs/codes/observable/observable-ts.ts)
 
 **recipes**
 
