@@ -13,6 +13,7 @@ export class ObservableTs {
 
     const subscription = new SubscriptionTs();
     const subscriber = new SubscriberTs(observer, subscription);
+
     const tearDown = this.initFunc(subscriber);
 
     subscription.add(tearDown);

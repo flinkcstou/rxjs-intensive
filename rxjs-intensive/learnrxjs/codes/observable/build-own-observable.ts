@@ -6,6 +6,15 @@ export class BuildOwnObservable {
 
   constructor() {
 
+    // const asd = new Observable((ob: Observer<any>) => {
+    //
+    // });
+    //
+    // asd.subscribe({
+    //   next() {
+    //     console.error()
+    //   }
+    // });
 
     const observable = new ObservableTs((observer: ObserverTs) => {
       console.error('some function');

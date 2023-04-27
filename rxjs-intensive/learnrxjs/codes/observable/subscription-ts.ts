@@ -4,7 +4,7 @@ export class SubscriptionTs {
   constructor() {
   }
 
-  add(tearDown: any) {
+  add(tearDown: () => any) {
     this.tearDowns.push(tearDown);
   }
 
