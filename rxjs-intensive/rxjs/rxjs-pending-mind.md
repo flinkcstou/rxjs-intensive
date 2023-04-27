@@ -17,3 +17,7 @@ start implementation all operators in rxjs
 - in order to understand how it works under the hood
 - in order to learn write as functional programming
 - in order to understand deeply js
+
+learn functional programming
+learn pipe=able operator under the hood
+learn how to work chaining
