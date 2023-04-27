@@ -1,6 +1,6 @@
 ### С ЧЕГО НАЧАТЬ ?
 
-[СТАРТ](./rxjs-intensive/rxjs/rxjs-start.md)
+[СТАРТ](rxjs-intensive/rxjs-materials/rxjs-start.md)
 
 ### БУДУЩЕЕ
 
